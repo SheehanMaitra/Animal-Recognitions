@@ -2,6 +2,7 @@ name: envpt
 channels:
   - conda-forge
   - defaults
+  - pytorch
 dependencies:
   - python=3.10
   - pyyaml
@@ -20,7 +21,7 @@ dependencies:
   - xorg-libxau # Optional: Only if needed for specific dependencies
   - xorg-libxdmcp # Optional: Only if needed for specific dependencies
   - pip
-  - torch==2.5.*
+  - pytorch
   - torchvision
   - matplotlib
   - numpy
@@ -30,7 +31,6 @@ dependencies:
   - flask
   - flask-cors
   - flask-restful
-  - flask-restplus
   - tk
   - pyyaml
   - pillow
