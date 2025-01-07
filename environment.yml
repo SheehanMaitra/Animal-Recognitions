@@ -4,13 +4,6 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - pytorch=2.5.* 
-  - numpy
-  - pandas
-  - matplotlib
-  - scipy
-  - scikit-learn
-  - pillow
   - pyyaml
   - zstd
   - zstandard
@@ -19,6 +12,7 @@ dependencies:
   - sympy
   - cffi
   - openssl
+  - flask
   - lcms2
   - lerc
   - tk
@@ -26,3 +20,19 @@ dependencies:
   - xorg-libxau # Optional: Only if needed for specific dependencies
   - xorg-libxdmcp # Optional: Only if needed for specific dependencies
   - pip
+  - pip:
+    - torch==2.5.*
+    - torchvision
+    - matplotlib
+    - numpy
+    - pandas
+    - scipy
+    - scikit-learn
+    - flask
+    - flask-cors
+    - flask-restful
+    - flask-restplus
+    - tk
+    - pyyaml
+    - pillow
+
