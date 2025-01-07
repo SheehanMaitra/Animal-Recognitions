@@ -20,19 +20,19 @@ dependencies:
   - xorg-libxau # Optional: Only if needed for specific dependencies
   - xorg-libxdmcp # Optional: Only if needed for specific dependencies
   - pip
-  - pip:
-    - torch==2.5.*
-    - torchvision
-    - matplotlib
-    - numpy
-    - pandas
-    - scipy
-    - scikit-learn
-    - flask
-    - flask-cors
-    - flask-restful
-    - flask-restplus
-    - tk
-    - pyyaml
-    - pillow
+  - torch==2.5.*
+  - torchvision
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - flask
+  - flask-cors
+  - flask-restful
+  - flask-restplus
+  - tk
+  - pyyaml
+  - pillow
+  - pymongo
 
