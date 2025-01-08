@@ -49,4 +49,4 @@ npm run dev
 <a href="https://github.com/SheehanMaitra/pet-finder/graphs/contributors"></a>
 
 ## Licenese
-Distributed under MIT License. See """License.txt""" for more info
+Distributed under MIT License. See ```icense.txt ``` for more info
