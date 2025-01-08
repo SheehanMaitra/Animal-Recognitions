@@ -21,7 +21,7 @@ This is a web application where owner with lost pets can upload their pets to ou
 npm install npm@12.22.0
 ```
 
-- refer to the [installation guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) for intalling conda
+- refer to the [installation guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) for installing conda
 
 ## Installation
 
