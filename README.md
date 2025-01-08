@@ -49,8 +49,9 @@ npm run dev
 
 ## Contributers
 
-@SheehanMaitra
-@ajs787
+<a href="https://github.com/SheehanMaitra/pet-finder/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SheehanMaitra/pet-finder" />
+</a>
 
 ## Licenese
 
