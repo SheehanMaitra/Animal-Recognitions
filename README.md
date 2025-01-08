@@ -2,36 +2,37 @@
 
 ## About The Project
 
-this is a web application where owner with lost pets can upload their pets to our "website" and if it is a seen they will be notified that their pet has been found and is avalible for retrieval
+This is a web application where owner with lost pets can upload their pets to our "website" and if it is a seen they will be notified that their pet has been found and is avalible for retrieval
 
 ### Built With
 
-* Next.js
-* Pytorch
-* MongoDb
-* Flask
+- Next.js
+- Pytorch
+- MongoDb
+- Flask
 
-
-## Getting Started 
+## Getting Started
 
 ## Prerequisites
 
-* npm
- ```sh
- npm install npm@12.22.0
+- npm
+
+```sh
+npm install npm@12.22.0
 ```
 
-* conda
- refer to the [installation guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+- conda<br>
+  refer to the [installation guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+
 ## Installation
 
-* creating your virtual environment
+- creating your virtual environment
 
 ```sh
 conda env create -f environment.yml
 ```
 
-* installing node packages in your client folder
+- installing node packages in your client folder
 
 ```sh
 cd client
@@ -40,13 +41,17 @@ npm install
 
 ## Usage
 
-* Creating your development server 
+- Creating your development server
+
 ```sh
 npm run dev
 ```
 
 ## Contributers
-<a href="https://github.com/SheehanMaitra/pet-finder/graphs/contributors"></a>
+
+@SheehanMaitra
+@ajs787
 
 ## Licenese
-Distributed under MIT License. See ```icense.txt ``` for more info
+
+Distributed under MIT License. See `License.txt` for more info
