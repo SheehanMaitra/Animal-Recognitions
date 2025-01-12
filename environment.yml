@@ -16,6 +16,7 @@ dependencies:
   - pytorch
   - torchvision
   - torchaudio
+  - flask-cors
   - pip:
       - torchtext
       - pytorch-lightning
